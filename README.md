@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Market Basket Analysis is an association rule mining technique that explores customers' shopping behavior by identifying associations between items placed in their shopping baskets. This report employs Association Rule Mining, a rule-based machine learning method, to uncover meaningful correlations between different products based on their co-occurrence in a dataset.
+Market Basket Analysis is an association rule mining technique that explores customers' shopping behavior by identifying associations between items placed in their shopping baskets. This project employs Association Rule Mining, a rule-based machine learning method, to uncover meaningful correlations between different products based on their co-occurrence in a dataset.
 
 ### 1.1 Motivation
 
